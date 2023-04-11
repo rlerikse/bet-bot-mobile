@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "BetBot",
+    "slug": "bet-bot-beta",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "facebookScheme": "fb971041627237227",
+    "facebookAppId": "971041627237227",
+    "facebookDisplayName": "BetBot",
+    "ios": {
+      "bundleIdentifier": "com.reactnativemarket.firebase",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.reactnativemarket.firebase",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0cfe21d2-8d59-43a6-8b70-b3df3df3f35f"
+      }
+    },
+    "plugins": [
+      "expo-facebook"
+    ]
+  }
+}

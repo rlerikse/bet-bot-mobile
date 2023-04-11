@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573196883722",
+    "firebase_url": "https://bet-bot-backend-default-rtdb.firebaseio.com",
+    "project_id": "bet-bot-backend",
+    "storage_bucket": "bet-bot-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573196883722:android:9110c9e82fbf09bc520cf3",
+        "android_client_info": {
+          "package_name": "com.eriksensolutions.betbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573196883722-uhnpec60arjj97ncoeekqq0cpii2dqm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP1bI1FX6xJiSx8gvpFqS-dj1F0MwOE7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573196883722-uhnpec60arjj97ncoeekqq0cpii2dqm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
